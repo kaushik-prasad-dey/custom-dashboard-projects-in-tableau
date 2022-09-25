@@ -1,0 +1,5 @@
+1) https://public.tableau.com/app/profile/kaushik.dey/viz/Customer_Analysis_in_details_updated/Dashboard1?publish=yes
+2) https://public.tableau.com/app/profile/kaushik.dey/viz/Uk_bank_Customers/Dashboard1?publish=yes
+3) https://public.tableau.com/app/profile/kaushik.dey/viz/Project_Management_Dashboard/Dashboard1?publish=yes
+4) https://public.tableau.com/app/profile/kaushik.dey/viz/CapstoneProject_16577424000130/Dashboard1
+5) https://public.tableau.com/app/profile/kaushik.dey/viz/TimeSeriesAnalysis_16479771253610/SalesDashboard
